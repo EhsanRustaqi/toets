@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: ;
+}
+nav{
+    text-align: center;
+    justify-content: space-between;
+    padding: 20px;
+    color: none;
+    
+}
+nav ul{
+    text-decoration: none;
+    
+}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+         justify-content: space-between;
+    margin: 30px;
+
+    
+}
+
+nav ul li a{
+    text-decoration: none;
+    
+    
+    
+}
+
+.color{
+    margin-top: 100px;
+    padding: 20px;
+    margin-right: 70px;
+    
+}
+.red{
+    background-color: lightcoral;
+    border: none;
+    width: 70px;
+    
+}
+
+.color .green{
+    background-color: lightgreen;
+    width: 70px;
+}
+
+.color .blue{
+    background-color: lightblue;
+    width: 70px;
+}
+.color .gray{
+    background-color: lightgray;
+    width: 70px;    
+}
+.ff{
+    margin-top: 70px;
+    text-align: center;
+}
